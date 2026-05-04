@@ -28,13 +28,33 @@ Here are some of the projects I’ve been working on:
 
 📚 BookBridge – Free Book Exchange Platform
 
-A web platform that allows parents to give away used school books and help others access free educational materials.
+A React-based web application that enables parents to share and access used school books, 
+improving access to educational resources through community support.
 
-**Features:**
+Features:
 
-* Add and browse available books
-* Simple and clean UI
-* Focus on accessibility and usability
+Browse books with dynamic data from an API (African countries dataset)
+Component-based architecture using React
+Interactive and responsive user interface
+Clean and intuitive user experience
+
+Tech:
+React, JavaScript, API integration, HTML, Tailwind CSS
+
+
+✈️ SafeTrip – Travel Safety & Car Booking Platform
+
+A responsive web interface designed to help users explore travel 
+options and find suitable cars in a simple and structured way.
+
+Features:
+
+Browse available cars for different travel needs
+Responsive design for mobile and desktop
+Clean layout with organized sections (cars, testimonials, contact)
+
+Tech:
+HTML, CSS (Flexbox, responsive design)
 
 
 📝 More Projects Coming Soon...
