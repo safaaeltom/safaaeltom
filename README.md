@@ -18,7 +18,7 @@
 * HTML5
 * CSS3 (Flexbox, Grid)
 * JavaScript (ES6+)
-* React (beginner level)
+* React 
 * Git & GitHub
 
 
@@ -59,7 +59,8 @@ I’m currently building more projects as part of my learning journey. Stay tune
   
 📈 What I'm Working On
 
-* Improving my CSS skills (Flexbox & Grid)
+* Improving my TailWind CSS skills
+* Improving React & JavaScript skills
 * Practicing Git & GitHub workflows
 * Building consistent weekly projects
 
